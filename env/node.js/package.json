@@ -1,0 +1,13 @@
+{
+  "name": "gzip",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Benedikt Spies",
+  "dependencies": {
+    "@wasmer/wasi": "^0.5.1",
+    "@wasmer/wasm-transformer": "^0.5.1",
+    "args-parser": "^1.1.0",
+    "yargs": "^15.0.2",
+    "yargs-parser": "^16.1.0"
+  }
+}

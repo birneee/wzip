@@ -1,0 +1,8 @@
+{
+  "name": "gzip",
+  "version": "1.0.0",
+  "dependencies": {
+    "@wasmer/wasi": "^0.5.1",
+    "@wasmer/wasmfs": "^0.5.1"
+  }
+}

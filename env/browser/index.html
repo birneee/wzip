@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>wzip</title>
+    <script type="module" src="main.mjs"></script>
+    <link rel="shortcut icon" type="image/png" href="favicon.png"/>
+    <style>
+        html {
+            height: 100%;
+            font-family: sans-serif;
+        }
+
+        body {
+            min-height: 100%;
+            margin: 0;
+        }
+
+        #drop_zone .pad {
+            min-width: 450px;
+            min-height: 300px;
+            width: 90%;
+            height: 90%;
+            text-align: center;
+            border-radius: 20px;
+            border-style: dashed;
+            border-width: 3px;
+            border-color: #654ff0;
+            color: #654ff0;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        #drop_zone.drag {
+            filter: hue-rotate(90deg);
+        }
+
+        #drop_zone .pad img {
+            width: 100px;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -90%);
+        }
+
+        #drop_zone .pad h1 {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, 0%);
+        }
+
+        #drop_zone .lds-ring {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            display: none;
+        }
+
+        #drop_zone.process .lds-ring {
+            display: block;
+        }
+
+        .lds-ring {
+            display: inline-block;
+            width: 64px;
+            height: 64px;
+            transform: translate(-50%, 60px);
+        }
+
+        .lds-ring div {
+            box-sizing: border-box;
+            display: block;
+            position: absolute;
+            width: 51px;
+            height: 51px;
+            margin: 6px;
+            border-style: solid;
+            border-width: 4px;
+            border-radius: 50%;
+            animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+            border-color: #654ff0 transparent transparent transparent;
+        }
+
+        .lds-ring div:nth-child(1) {
+            animation-delay: -0.45s;
+        }
+
+        .lds-ring div:nth-child(2) {
+            animation-delay: -0.3s;
+        }
+
+        .lds-ring div:nth-child(3) {
+            animation-delay: -0.15s;
+        }
+
+        @keyframes lds-ring {
+            0% {
+                transform: rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+<body id="drop_zone">
+<div class="pad">
+    <img src="../../wzip.svg"/>
+    <h1>Drop file here</h1>
+    <div class="lds-ring">
+        <div></div>
+        <div></div>
+        <div></div>
+        <div></div>
+    </div>
+</div>
+</body>
+</html>

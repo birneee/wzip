@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by AtomCrusher for the English Wikipedia -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="612"
+   height="612"
+   id="svg6"
+   sodipodi:docname="wzip.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffff54"
+     bordercolor="#666666"
+     borderopacity="0.00784314"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0.14901961"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2087"
+     id="namedview8"
+     showgrid="true"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="218.16996"
+     inkscape:cy="333.27767"
+     inkscape:window-x="1920"
+     inkscape:window-y="35"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     inkscape:snap-bbox="false"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-page="true"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="false"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4688" />
+  </sodipodi:namedview>
+  <!-- Block -->
+  <path
+     style="fill:#654ff0"
+     d="M 0 0 L 0 612 L 612 612 L 612 0 L 306.56445 0 L 306.56445 34.380859 L 370.28516 34.380859 L 370.28516 68.763672 L 306.56445 68.763672 L 306.56445 103.14453 L 370.28516 103.14453 L 370.28516 137.52539 L 306.56445 137.52539 L 306.56445 171.9082 L 242.84375 171.9082 L 242.84375 137.52539 L 306.56445 137.52539 L 306.56445 103.14453 L 242.84375 103.14453 L 242.84375 68.763672 L 306.56445 68.763672 L 306.56445 34.380859 L 242.84375 34.380859 L 242.84375 0 L 0 0 z "
+     id="path2" />
+  <!-- Letters -->
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="101.47898"
+     y="522.40106"
+     id="text32"><tspan
+       sodipodi:role="line"
+       id="tspan30"
+       x="101.47898"
+       y="522.40106"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:240px;font-family:Cabin;-inkscape-font-specification:'Cabin, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff">wzip</tspan></text>
+  <flowRoot
+     xml:space="preserve"
+     id="flowRoot34"
+     style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       id="flowRegion36"><rect
+         id="rect38"
+         width="168.6989"
+         height="66.929451"
+         x="273.21887"
+         y="137.07593" /></flowRegion><flowPara
+       id="flowPara40"></flowPara></flowRoot>  <g
+     id="g4695"
+     transform="translate(0.10705526,0.04300777)" />
+</svg>
