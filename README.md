@@ -6,10 +6,10 @@ gzip implemented in Rust, able to be utilized in various environments
 
 ## Screenshots
 
-<img src="screenshots/1_idle.png" width="47%">
-<img src="screenshots/2_hover.png" width="47%">
-<img src="screenshots/3_process.png" width="47%">
-<img src="screenshots/4_download.png" width="47%">
+<img src="screenshots/1_idle.png" width="47%" align="left" style="padding:5px">
+<img src="screenshots/2_hover.png" width="47%" align="left" style="padding:5px">
+<img src="screenshots/3_process.png" width="47%" align="left" style="padding:5px">
+<img src="screenshots/4_download.png" width="47%" style="padding:5px">
 
 
 ## Install wasi compiler target
